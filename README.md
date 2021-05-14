@@ -19,4 +19,4 @@ track of the following statistics:
 • Total number of kWh used,
 • Average bill amount
 
-![](BillProcesser .gif)
+![Bill Processer Demo](BillProcesser .gif)
